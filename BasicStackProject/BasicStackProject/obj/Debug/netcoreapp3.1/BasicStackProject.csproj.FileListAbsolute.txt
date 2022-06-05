@@ -1,0 +1,13 @@
+D:\c sharp repos\BasicStackProject\BasicStackProject\bin\Debug\netcoreapp3.1\BasicStackProject.exe
+D:\c sharp repos\BasicStackProject\BasicStackProject\bin\Debug\netcoreapp3.1\BasicStackProject.deps.json
+D:\c sharp repos\BasicStackProject\BasicStackProject\bin\Debug\netcoreapp3.1\BasicStackProject.runtimeconfig.json
+D:\c sharp repos\BasicStackProject\BasicStackProject\bin\Debug\netcoreapp3.1\BasicStackProject.runtimeconfig.dev.json
+D:\c sharp repos\BasicStackProject\BasicStackProject\bin\Debug\netcoreapp3.1\BasicStackProject.dll
+D:\c sharp repos\BasicStackProject\BasicStackProject\bin\Debug\netcoreapp3.1\BasicStackProject.pdb
+D:\c sharp repos\BasicStackProject\BasicStackProject\obj\Debug\netcoreapp3.1\BasicStackProject.csprojAssemblyReference.cache
+D:\c sharp repos\BasicStackProject\BasicStackProject\obj\Debug\netcoreapp3.1\BasicStackProject.AssemblyInfoInputs.cache
+D:\c sharp repos\BasicStackProject\BasicStackProject\obj\Debug\netcoreapp3.1\BasicStackProject.AssemblyInfo.cs
+D:\c sharp repos\BasicStackProject\BasicStackProject\obj\Debug\netcoreapp3.1\BasicStackProject.csproj.CoreCompileInputs.cache
+D:\c sharp repos\BasicStackProject\BasicStackProject\obj\Debug\netcoreapp3.1\BasicStackProject.dll
+D:\c sharp repos\BasicStackProject\BasicStackProject\obj\Debug\netcoreapp3.1\BasicStackProject.pdb
+D:\c sharp repos\BasicStackProject\BasicStackProject\obj\Debug\netcoreapp3.1\BasicStackProject.genruntimeconfig.cache
